@@ -26,8 +26,8 @@ the contributing guide, policies and issue forms across all of them.
 | `CONTRIBUTING.md` | Contribution workflow and standards |
 | `SECURITY.md` | How to report a vulnerability |
 | `PULL_REQUEST_TEMPLATE.md` | Pull request description and checklist |
-| `ISSUE_TEMPLATE/` | Bug, feature and support issue forms |
-| `ISSUE_TEMPLATE/config.yml` | Turns off blank issues and links the security policy |
+| `.github/ISSUE_TEMPLATE/` | Bug, feature and support issue forms |
+| `.github/ISSUE_TEMPLATE/config.yml` | Turns off blank issues and links the security policy |
 
 ## How It Works
 
