@@ -25,6 +25,7 @@ the contributing guide, policies and issue forms across all of them.
 | `CODE_OF_CONDUCT.md` | Contributor Covenant 2.1 |
 | `CONTRIBUTING.md` | Contribution workflow and standards |
 | `SECURITY.md` | How to report a vulnerability |
+| `SUPPORT.md` | Where to get help |
 | `PULL_REQUEST_TEMPLATE.md` | Pull request description and checklist |
 | `.github/ISSUE_TEMPLATE/` | Bug, feature and support issue forms |
 | `.github/ISSUE_TEMPLATE/config.yml` | Turns off blank issues and links the security policy |
